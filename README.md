@@ -1,2 +1,2 @@
-# Mobi_insurance
-A DBMS project
+# Mobi-Insurance
+This repository contains the files for DBMS project
